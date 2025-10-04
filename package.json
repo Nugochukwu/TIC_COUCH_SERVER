@@ -2,6 +2,7 @@
   "name": "game-server",
   "version": "1.0.0",
   "scripts": {
-    "start": "./godot.linuxbsd.server.64 --headless --main-pack project.pck"
-  }
+	"start": "./couch_production_build_test_server.x86_64 --headless --main-pack couch_production_build_test_server.pck"
+}
+
 }
